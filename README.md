@@ -22,7 +22,7 @@ Fácil y sencillo.
 ### Intérprete de Python
 ***
 Esta parte es aún más sencilla, con python instalado abrí la consola de comandos y escribí "python", esto me permitió acceder al intérprete, en donde nada más hay que poner la orden exacta que en este caso era mostrar "Hola mundo".
-- Editando me di cuenta que escribí por costumbre "Hello world" en vez de "Hola mundo", una traición a la comunidad hispanoablante.
+- Editando me di cuenta que escribí por costumbre "Hello world" en vez de "Hola mundo".
 
 [![Interpyth.png](https://i.postimg.cc/0jzQ2hbF/Interpyth.png)](https://postimg.cc/V0c1KG9W)
 
@@ -44,7 +44,7 @@ Sin embargo, eso no fue lo que sucedió, ya que al hacerlo me reportaba el error
 
    Pero no lo hacía.
 
-Hasta que cansado del "prueba y error" le pregunté a un amigo y me recordó que debía abrir la terminal directamente en la carpeta donde se encontraba el archivo, cosa que solucionó el error.
+Finalmente recordé que debía abrir la terminal directamente en la carpeta donde se encontraba el archivo, cosa que solucionó el error.
 
 _Y así_, pude lograr mi objetivo luego de 1 hora perdida.
 
